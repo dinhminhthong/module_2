@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="" />
+    <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap1/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap1/QuadraticEquationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap2/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap2/FanMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/thuc_hanh/HinhChuNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +26,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H4GHhFb1FxN3pFnsLgIoUzmzTU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,12 +49,13 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DeleteIndex">
+  <component name="RunManager" selected="Application.FanMain">
     <configuration name="DeleteIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss3_Array.baitap.DeleteIndex" />
       <module name="baitap" />
@@ -57,51 +69,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Array.baitap.MinArray" />
+    <configuration name="FanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_OOP.bai_tap.baitap2.FanMain" />
+      <module name="baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss4_OOP.bai_tap.baitap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HinhChuNhatmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_OOP.thuc_hanh.HinhChuNhatmain" />
+      <module name="baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss4_OOP.thuc_hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadraticEquationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_OOP.bai_tap.baitap1.QuadraticEquationMain" />
+      <module name="baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss4_OOP.bai_tap.baitap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Array.baitap.Sum" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ss3_Array.baitap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss2_loops_array.Prime" />
-      <module name="baitap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss2_loops_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThePrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss2_loops_array.ThePrimes" />
-      <module name="baitap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss2_loops_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TheTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss2_loops_array.TheTriangle" />
-      <module name="baitap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss2_loops_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FanMain" />
+        <item itemvalue="Application.QuadraticEquationMain" />
+        <item itemvalue="Application.HinhChuNhatmain" />
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.DeleteIndex" />
-        <item itemvalue="Application.MinArray" />
-        <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.ThePrimes" />
-        <item itemvalue="Application.TheTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -141,11 +153,23 @@
       <workItem from="1667722536479" duration="2992000" />
       <workItem from="1667791981808" duration="13969000" />
       <workItem from="1667877400285" duration="7019000" />
-      <workItem from="1667904956135" duration="5099000" />
+      <workItem from="1667904956135" duration="9717000" />
+      <workItem from="1667964762064" duration="11889000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
