@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap1/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap1/QuadraticEquationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap2/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/baitap2/FanMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/thuc_hanh/HinhChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/giaithuat/Giaithuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/thuc_hanh/GiaiThuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Crircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/thuc_hanh/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/thuc_hanh/ClassStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +34,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H4GHhFb1FxN3pFnsLgIoUzmzTU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -55,13 +62,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FanMain">
-    <configuration name="DeleteIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Array.baitap.DeleteIndex" />
+  <component name="RunManager" selected="Application.Giaithuat">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.thuc_hanh.Car" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Array.baitap.*" />
+          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_OOP.bai_tap.baitap2.FanMain" />
+    <configuration name="CricleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.CricleMain" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_OOP.bai_tap.baitap2.*" />
+          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HinhChuNhatmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_OOP.thuc_hanh.HinhChuNhatmain" />
+    <configuration name="Crircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.Crircle" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_OOP.thuc_hanh.*" />
+          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadraticEquationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_OOP.bai_tap.baitap1.QuadraticEquationMain" />
+    <configuration name="Giaithuat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_OOP.bai_tap.giaithuat.Giaithuat" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_OOP.bai_tap.baitap1.*" />
+          <option name="PATTERN" value="ss4_OOP.bai_tap.giaithuat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Array.baitap.Sum" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.Student" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Array.baitap.*" />
+          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FanMain" />
-        <item itemvalue="Application.QuadraticEquationMain" />
-        <item itemvalue="Application.HinhChuNhatmain" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.DeleteIndex" />
+        <item itemvalue="Application.Giaithuat" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Crircle" />
+        <item itemvalue="Application.CricleMain" />
+        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +161,10 @@
       <workItem from="1667791981808" duration="13969000" />
       <workItem from="1667877400285" duration="7019000" />
       <workItem from="1667904956135" duration="9717000" />
-      <workItem from="1667964762064" duration="11889000" />
+      <workItem from="1667964762064" duration="16185000" />
+      <workItem from="1667995427472" duration="752000" />
+      <workItem from="1668004228658" duration="1366000" />
+      <workItem from="1668043282545" duration="11664000" />
     </task>
     <servers />
   </component>
