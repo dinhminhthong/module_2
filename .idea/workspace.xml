@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/bai_tap/giaithuat/Giaithuat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss4_OOP/thuc_hanh/GiaiThuat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Crircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/thuc_hanh/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/thuc_hanh/ClassStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Crircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Crircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Giaithuat">
+  <component name="RunManager" selected="Application.Car">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.thuc_hanh.Car" />
       <module name="baitap" />
@@ -136,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Car" />
         <item itemvalue="Application.Giaithuat" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Crircle" />
         <item itemvalue="Application.CricleMain" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +159,8 @@
       <workItem from="1667964762064" duration="16185000" />
       <workItem from="1667995427472" duration="752000" />
       <workItem from="1668004228658" duration="1366000" />
-      <workItem from="1668043282545" duration="11664000" />
+      <workItem from="1668043282545" duration="14025000" />
+      <workItem from="1668084478766" duration="1314000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,7 @@ public class Crircle {
         Crircle cr = new Crircle();
         System.out.println(cr.getArea());
         java.util.Scanner sc = new Scanner(System.in);
-        System.out.println("Nhập bán kính khác đi bro");
+        System.out.println("Nhập bán kính khác:");
         int r = Integer.parseInt(sc.nextLine());
         Crircle area = new Crircle(r);
         System.out.println("diện tích mới nà:"+area.getArea());
