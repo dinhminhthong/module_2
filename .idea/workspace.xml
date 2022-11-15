@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/CricleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2dMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point3d.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Crircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss5_Access_modified_stactic_method_staticproperty/bai_tap/Crircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +62,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.Point2dMain">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.thuc_hanh.Car" />
       <module name="baitap" />
@@ -72,24 +77,11 @@
       </method>
     </configuration>
     <configuration name="CricleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.CricleMain" />
+      <option name="MAIN_CLASS_NAME" value="ss6_inheritance.cricle.CricleMain" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Crircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.Crircle" />
-      <module name="baitap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.*" />
+          <option name="PATTERN" value="ss6_inheritance.cricle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.Student" />
+    <configuration name="Point2dMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_inheritance.point2d.Point2dMain" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss5_Access_modified_stactic_method_staticproperty.bai_tap.*" />
+          <option name="PATTERN" value="ss6_inheritance.point2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThePrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_loops_array.ThePrimes" />
+      <module name="baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss2_loops_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point2dMain" />
+        <item itemvalue="Application.CricleMain" />
+        <item itemvalue="Application.ThePrimes" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.Giaithuat" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Crircle" />
-        <item itemvalue="Application.CricleMain" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +166,10 @@
       <workItem from="1668004228658" duration="1366000" />
       <workItem from="1668043282545" duration="14025000" />
       <workItem from="1668084478766" duration="1314000" />
+      <workItem from="1668086600713" duration="2607000" />
+      <workItem from="1668090887349" duration="93000" />
+      <workItem from="1668091346531" duration="807000" />
+      <workItem from="1668476599171" duration="5283000" />
     </task>
     <servers />
   </component>
