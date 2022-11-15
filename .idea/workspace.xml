@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/CricleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2dMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point3d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_1/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_1/ShapeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_1/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
       <list>
         <option value="JavaFXApplication" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -169,7 +170,8 @@
       <workItem from="1668086600713" duration="2607000" />
       <workItem from="1668090887349" duration="93000" />
       <workItem from="1668091346531" duration="807000" />
-      <workItem from="1668476599171" duration="5283000" />
+      <workItem from="1668476599171" duration="11464000" />
+      <workItem from="1668518409810" duration="282000" />
     </task>
     <servers />
   </component>
