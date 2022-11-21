@@ -33,7 +33,7 @@ public class Refactoring {
         return result;
     }
 
-    public static String getScoreMoreFour(String namePlayerOne, String namePlayerTwo, int score1, int score2) {
+    public static String getScore(String namePlayerOne, String namePlayerTwo, int score1, int score2) {
         int minusResult = score1 - score2;
         if (minusResult == 1) {
 
@@ -44,6 +44,7 @@ public class Refactoring {
             result = "Win for " + namePlayerOne;
         } else {
             result = "Win for " + namePlayerTwo;
+
         }
         return result;
     }
@@ -62,6 +63,8 @@ public class Refactoring {
             case THREE:
                 result = "Forty";
                 break;
+            default:
+                result="Deuce";
         }
         return result;
     }public static String callScoreTwo(int score2){
@@ -78,6 +81,8 @@ public class Refactoring {
             case THREE:
                 result = "Forty";
                 break;
+            default:
+                result="Deuce";
         }
         return result;
     }
@@ -97,7 +102,7 @@ public class Refactoring {
         if (scoreOne == scoreSecond) {
             System.out.println(getScore(scoreOne));
         } else if (scoreOne >= FOUR || scoreSecond >= FOUR) {
-            System.out.println(getScoreMoreFour(nameOfFirstPlayer, nameOfSecondPlayer, scoreOne, scoreSecond));
+            System.out.println(getScore(nameOfFirstPlayer, nameOfSecondPlayer, scoreOne, scoreSecond));
 
         } else {
             System.out.println(callScoreOne(scoreOne) + " " +callScoreTwo(scoreSecond));
