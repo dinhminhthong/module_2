@@ -1,4 +1,4 @@
-package ss6_inheritance.cricle;
+package ss7_interface.ss6_inheritance.cricle;
 
 public class Cylinder extends Circle {
     private double height;

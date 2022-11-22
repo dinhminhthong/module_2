@@ -1,4 +1,4 @@
-package ss6_inheritance.point2d;
+package ss7_interface.ss6_inheritance.point2d;
 
 public class Point3d extends Point2d {
 private float z = 0.0f;

@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/thuc_hanh_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/bai_tap/Ascendent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/thuc_hanh/nhi_phan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Cricle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss8_clean_code/Refactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss8_clean_code/Refactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/thuc_hanh_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/thuc_hanh_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/cricle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/CricleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/cricle/CricleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/cricle/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/point2d/Point2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2dMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/point2d/Point2dMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point3d.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/point2d/Point3d.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +72,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Transfer">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_stack_queue.bai_tap1.Array" />
+  <component name="RunManager" selected="Application.Ascendent">
+    <configuration name="Ascendent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_thuat_toan_tim_kiem.bai_tap.Ascendent" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_stack_queue.bai_tap1.*" />
+          <option name="PATTERN" value="ss12_thuat_toan_tim_kiem.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point2dMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_inheritance.point2d.Point2dMain" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_Map.thuc_hanh.Dog" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_inheritance.point2d.*" />
+          <option name="PATTERN" value="ss11_Map.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,25 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_stack_queue.bai_tap2.ReadData" />
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_Map.thuc_hanh.StudentMain" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_stack_queue.bai_tap2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_stack_queue.bai_tap1.ReverseString" />
-      <module name="baitap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss10_stack_queue.bai_tap1.*" />
+          <option name="PATTERN" value="ss11_Map.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="thuc_hanh_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_Map.thuc_hanh.thuc_hanh_1" />
+      <module name="baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_Map.thuc_hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ascendent" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.StudentMain" />
+        <item itemvalue="Application.thuc_hanh_1" />
         <item itemvalue="Application.Transfer" />
-        <item itemvalue="Application.ReadData" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.Point2dMain" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +188,8 @@
       <workItem from="1668778428117" duration="1383000" />
       <workItem from="1668862671202" duration="1396000" />
       <workItem from="1668934217784" duration="954000" />
-      <workItem from="1669000870956" duration="750000" />
+      <workItem from="1669000870956" duration="12419000" />
+      <workItem from="1669080002019" duration="7222000" />
     </task>
     <servers />
   </component>

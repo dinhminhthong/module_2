@@ -1,4 +1,4 @@
-package ss6_inheritance.point2d;
+package ss7_interface.ss6_inheritance.point2d;
 
 import java.util.Arrays;
 
