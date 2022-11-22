@@ -31,6 +31,7 @@ public class Ascendent {
 
             
         }
+
         System.out.println();
     }
 }

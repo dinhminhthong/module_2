@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/bai_tap/Ascendent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/thuc_hanh/nhi_phan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Cricle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/bai_2/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/thuc_hanh_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss11_Map/thuc_hanh/thuc_hanh_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/cricle/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/CricleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/cricle/CricleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/cricle/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/cricle/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/point2d/Point2d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point2dMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/point2d/Point2dMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss6_inheritance/point2d/Point3d.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss7_interface/ss6_inheritance/point2d/Point3d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/bai_tap/Ascendent.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/bai_tap/Ascendent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +175,8 @@
       <workItem from="1668862671202" duration="1396000" />
       <workItem from="1668934217784" duration="954000" />
       <workItem from="1669000870956" duration="12419000" />
-      <workItem from="1669080002019" duration="7222000" />
+      <workItem from="1669080002019" duration="8772000" />
+      <workItem from="1669117012040" duration="219000" />
     </task>
     <servers />
   </component>
