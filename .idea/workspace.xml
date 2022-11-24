@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap/src/gai_thuat/Fibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/on_tap/Controller/FamilyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/on_tap/model/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/on_tap/service/IfamilyGen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/bai_tap/Ascendent.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss12_thuat_toan_tim_kiem/bai_tap/Ascendent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ascendent">
+  <component name="RunManager" selected="Application.Fibonaci">
     <configuration name="Ascendent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss12_thuat_toan_tim_kiem.bai_tap.Ascendent" />
       <module name="baitap" />
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_Map.thuc_hanh.StudentMain" />
+    <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gai_thuat.Fibonaci" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_Map.thuc_hanh.*" />
+          <option name="PATTERN" value="gai_thuat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Transfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_stack_queue.bai_tap3.Transfer" />
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_Map.thuc_hanh.StudentMain" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_stack_queue.bai_tap3.*" />
+          <option name="PATTERN" value="ss11_Map.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonaci" />
         <item itemvalue="Application.Ascendent" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.StudentMain" />
         <item itemvalue="Application.thuc_hanh_1" />
-        <item itemvalue="Application.Transfer" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +180,9 @@
       <workItem from="1669000870956" duration="12419000" />
       <workItem from="1669080002019" duration="8772000" />
       <workItem from="1669117012040" duration="219000" />
+      <workItem from="1669123372272" duration="243000" />
+      <workItem from="1669176334299" duration="7300000" />
+      <workItem from="1669254062978" duration="5408000" />
     </task>
     <servers />
   </component>
