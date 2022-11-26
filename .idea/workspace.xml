@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/gai_thuat/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/on_tap/Controller/FamilyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/on_tap/model/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/on_tap/service/IfamilyGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap/src/gai_thuat/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fibonaci">
+  <component name="RunManager" selected="Application.Sum">
     <configuration name="Ascendent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss12_thuat_toan_tim_kiem.bai_tap.Ascendent" />
       <module name="baitap" />
@@ -114,18 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thuc_hanh" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thuc_hanh" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thuc_hanh_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_Map.thuc_hanh.thuc_hanh_1" />
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gai_thuat.Sum" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_Map.thuc_hanh.*" />
+          <option name="PATTERN" value="gai_thuat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +124,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="thuc_hanh" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thuc_hanh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Fibonaci" />
         <item itemvalue="Application.Ascendent" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.StudentMain" />
-        <item itemvalue="Application.thuc_hanh_1" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +180,8 @@
       <workItem from="1669123372272" duration="243000" />
       <workItem from="1669176334299" duration="7300000" />
       <workItem from="1669254062978" duration="5408000" />
+      <workItem from="1669302546774" duration="943000" />
+      <workItem from="1669338514282" duration="4175000" />
     </task>
     <servers />
   </component>
