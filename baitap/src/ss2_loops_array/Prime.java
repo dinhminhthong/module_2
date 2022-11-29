@@ -15,7 +15,7 @@ public class Prime {
             System.out.println(n+" Số nguyên tố đầu tiên là:");
             System.out.println(2);
         }
-        for ( int i = 2 ; i <=n ;  )
+        for ( int i = 2 ; i <=n ;i++  )
         {
             for ( int j = 2 ; j <= Math.sqrt(num) ; j++ )
             {
