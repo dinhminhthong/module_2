@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6de8c52-ea6c-424b-a19c-588ad587d9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap/src/gai_thuat/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_1/CopyFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_1/Student.cvs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_1/TestFile.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/Nation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/NationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/nation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss17_java_colection/bai_tap/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss17_java_colection/bai_tap/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap/src/ss17_java_colection/bai_tap/ProductManagerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/on_tap/Controller/FamilyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/on_tap/Controller/FamilyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap/src/ss2_loops_array/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss2_loops_array/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/Nation.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/Nation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/NationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/NationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/nation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/baitap/src/ss16_io_text_file/bai_tap_2/nation.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +62,26 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CopyFileTest">
+  <component name="RunManager" selected="Application.NationMain">
     <configuration name="CopyFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap_1.CopyFileTest" />
       <module name="baitap" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ss16_io_text_file.bai_tap_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap_2.NationMain" />
+      <module name="baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss16_io_text_file.bai_tap_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gai_thuat.Sum" />
-      <module name="baitap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gai_thuat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="thuc_hanh" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thuc_hanh" />
       <method v="2">
@@ -145,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CopyFileTest" />
+        <item itemvalue="Application.NationMain" />
         <item itemvalue="Application.ProductManagerMain" />
+        <item itemvalue="Application.CopyFileTest" />
         <item itemvalue="Application.Prime" />
         <item itemvalue="Application.Palin" />
-        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +193,8 @@
       <workItem from="1669556868734" duration="3682000" />
       <workItem from="1669606618368" duration="6928000" />
       <workItem from="1669687523463" duration="10058000" />
+      <workItem from="1669729790369" duration="992000" />
+      <workItem from="1669779282191" duration="2736000" />
     </task>
     <servers />
   </component>
@@ -230,6 +223,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/baitap/src/ss17_java_colection/bai_tap/ProductManagerMain.java</url>
+          <line>8</line>
+          <properties class="ss17_java_colection.bai_tap.ProductManagerMain" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

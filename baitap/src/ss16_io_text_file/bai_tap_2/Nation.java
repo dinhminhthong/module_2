@@ -41,17 +41,5 @@ public class Nation {
         this.code = code;
         this.name = name;
     }
-    public void writeFile(String pathFile, String line){
-        try {
-            FileWriter fileWriter = new FileWriter(pathFile, true);
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-
-            bufferedWriter.write(line);
-            bufferedWriter.newLine();
-
-            bufferedWriter.close();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
 }
+
