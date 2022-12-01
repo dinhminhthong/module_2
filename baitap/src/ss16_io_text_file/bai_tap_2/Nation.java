@@ -41,5 +41,14 @@ public class Nation {
         this.code = code;
         this.name = name;
     }
+
+    public static  void nation(int id, String name, String code){
+        System.out.println("Nation{" +
+                "id=" + id +
+                ", code='" + code + '\'' +
+                ", name='" + name + '\'' +
+                '}');
+
+    }
 }
 

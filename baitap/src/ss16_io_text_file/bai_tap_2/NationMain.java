@@ -30,8 +30,19 @@ public class NationMain {
         System.out.println(list);
 
       String[] lineSplit = list.get(0).split(",");
-       Nation nation = new Nation(Integer.parseInt(lineSplit[0]),lineSplit[1],lineSplit[2]);
-        System.out.println(nation.getCode()+","+ nation.getName()+","+nation.getId()+",");
+      String[] lineSplit1 = list.get(1).split(",");
+      String[] lineSplit2 = list.get(2).split(",");
+       Nation nation = new Nation();
+       nation1  = new Nation(Integer.parseInt(lineSplit[0]),lineSplit[1],lineSplit[2]);
+       nation2 = new Nation(Integer.parseInt(lineSplit1[2]),lineSplit1[3],lineSplit1[4]);
+       nation3 = new Nation(Integer.parseInt(lineSplit2[4]),lineSplit2[5],lineSplit2[6]);
+//        System.out.println(nation.getCode()+","+ nation.getName()+","+nation.getId()+",");
+        Nation.nation(nation1.getId(), nation1.getName(), nation1.getCode());
+        Nation.nation(nation2.getId(), nation2.getName(), nation2.getCode());
+        Nation.nation(nation3.getId(), nation3.getName(), nation3.getCode());
+
+
+
     }
 }
 
