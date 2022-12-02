@@ -1,14 +1,14 @@
-package on_tap.model;
+package ss9_arraylist.bai_tap_2.module;
 
-public class Family {
+public class Product {
     private int id;
-    private boolean sex;
     private String name;
+    private String price;
 
-    public Family(int id, boolean sex, String name) {
-        this.id = id;
-        this.sex = sex;
-        this.name = name;
+    public Product() {
+    }
+
+    public Product(String m2, String meceder, String mecerder0, int i, String màu_xanh) {
     }
 
     public int getId() {
@@ -19,14 +19,6 @@ public class Family {
         this.id = id;
     }
 
-    public boolean isSex() {
-        return sex;
-    }
-
-    public void setSex(boolean sex) {
-        this.sex = sex;
-    }
-
     public String getName() {
         return name;
     }
@@ -35,12 +27,20 @@ public class Family {
         this.name = name;
     }
 
+    public String getPrice() {
+        return price;
+    }
+
+    public void setPrice(String price) {
+        this.price = price;
+    }
+
     @Override
     public String toString() {
-        return "Family{" +
+        return "Product{" +
                 "id=" + id +
-                ", sex=" + sex +
                 ", name='" + name + '\'' +
+                ", price='" + price + '\'' +
                 '}';
     }
 }
