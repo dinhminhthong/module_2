@@ -1,29 +1,32 @@
 package bai_tap_no.ss_17.Modle;
 
-public class Product {
-private String code;
-private String name;
-private String product;
-private int price;
-private String description;
+import java.io.Serializable;
+
+public class Product implements Serializable {
+    private int id;
+    private String name;
+    private String brand;
+    private double price;
+    private String description;
 
     public Product() {
     }
 
-    public Product(String code, String name, String product, int price, String description) {
-        this.code = code;
+    public Product(int id, String name, String brand, double price, String description) {
+        this.id = id;
         this.name = name;
-        this.product = product;
+        this.brand = brand;
         this.price = price;
         this.description = description;
     }
 
-    public String getCode() {
-        return code;
+
+    public int getId() {
+        return id;
     }
 
-    public void setCode(String code) {
-        this.code = code;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
@@ -34,19 +37,19 @@ private String description;
         this.name = name;
     }
 
-    public String getProduct() {
-        return product;
+    public String getBrand() {
+        return brand;
     }
 
-    public void setProduct(String product) {
-        this.product = product;
+    public void setBrand(String brand) {
+        this.brand = brand;
     }
 
-    public int getPrice() {
+    public double getPrice() {
         return price;
     }
 
-    public void setPrice(int price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 
@@ -61,11 +64,11 @@ private String description;
     @Override
     public String toString() {
         return "Product{" +
-                "code='" + code + '\'' +
+                "id=" + id +
                 ", name='" + name + '\'' +
-                ", product='" + product + '\'' +
+                ", brand='" + brand + '\'' +
                 ", price=" + price +
                 ", description='" + description + '\'' +
-                '}';
+
     }
 }
