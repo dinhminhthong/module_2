@@ -3,22 +3,3 @@
 	Bai1.java,6\9\69f4087b0c0cd9737faf3622dea63fdd238c1c6b
 @
 phan_2/bai2.java,b\c\bc4b24de087ab5c0aadbc75a54e2057d61ce74a6
-9
-	Bai3.java,5\e\5e21526d05b17d169034fd6c8f3878df0fe2b222
-9
-	Bai5.java,6\7\674411fbc2fe13a9723a57b29c18dbd7dcaeef1f
-9
-	Bai8.java,7\f\7f089e206217c2b6ff3acdc974c6c70a248a5562
-9
-	Bai7.java,6\7\674b9ecef8f50e26df0aaf3110422b622522a4ea
-9
-	Bai6.java,8\e\8e4b22a9b0dff4cab24ae6088f9acce79a66d704
-9
-	Bai4.java,c\5\c5a39e8ddf8d9fa9755a5e04faa91668190ca7af
-9
-	bai9.java,a\9\a9266a380b6163f5bd24a14d0f8e7576aad8f15b
-:
-
-Bai10.java,b\5\b5fe39e7269d5da05b1d05ba9300d160244bb840
-9
-	Bai2.java,e\7\e7d8a15d7562dd15e35cee464dc18719c869c474
