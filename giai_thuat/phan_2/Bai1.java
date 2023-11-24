@@ -4,7 +4,7 @@ public class Bai1 {
     public static String reverseInputString(String myString) {
         if (myString == null) {
             return myString;
-        }    
+        }
         String reverseString = "";
         for (int i = myString.length() - 1; i >= 0; i--) {
             reverseString = reverseString + myString.charAt(i);
