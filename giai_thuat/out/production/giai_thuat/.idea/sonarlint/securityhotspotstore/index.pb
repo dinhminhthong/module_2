@@ -1,5 +1,34 @@
 
 9
 	Bai1.java,6\9\69f4087b0c0cd9737faf3622dea63fdd238c1c6b
+9
+	Bai5.java,6\7\674411fbc2fe13a9723a57b29c18dbd7dcaeef1f
+9
+	bai9.java,a\9\a9266a380b6163f5bd24a14d0f8e7576aad8f15b
+9
+	Bai3.java,5\e\5e21526d05b17d169034fd6c8f3878df0fe2b222
+9
+	Bai8.java,7\f\7f089e206217c2b6ff3acdc974c6c70a248a5562
+9
+	Bai6.java,8\e\8e4b22a9b0dff4cab24ae6088f9acce79a66d704
 @
-phan_2/bai2.java,b\c\bc4b24de087ab5c0aadbc75a54e2057d61ce74a6
+phan_2/Bai1.java,6\d\6d811e7f420ba47475c19a90ab7dfacb990082ea
+9
+	Bai4.java,c\5\c5a39e8ddf8d9fa9755a5e04faa91668190ca7af
+:
+
+Bai10.java,b\5\b5fe39e7269d5da05b1d05ba9300d160244bb840
+@
+phan_2/bai6.java,4\a\4ac8d22a47b1e9cb1aa18d15be77b548fa30f1c9
+@
+phan_2/Bai3.java,5\a\5a31e2df489c8735653ea3cfca15fb25deecb009
+9
+	Bai2.java,e\7\e7d8a15d7562dd15e35cee464dc18719c869c474
+@
+phan_2/Bai4.java,9\4\94579dbb3105a8cf1d1034bd03c489cfe66c170c
+@
+phan_2/Bai5.java,2\1\217eb88cc96e0e22b8b7b0748e0224278ed8492c
+@
+phan_2/Bai7.java,2\3\2383b431683d9f80b5ac3a5308e3125c5b035f89
+@
+phan_2/Bai8.java,c\4\c457dfddcaf03f73ddff2da854c4e5b26729b214

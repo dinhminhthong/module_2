@@ -1,0 +1,10 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal " lÃ : " 3 times.(â–˜ø8 Áõÿ¿1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¯„ûÿÿÿÿ
+c
+java:S1659"ADeclare "tram" and all following declarations on a separate line.(¸µ»ıÿÿÿÿ8©Áõÿ¿1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(û¾ºûÿÿÿÿ8¯Áõÿ¿1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â–˜ø8°Áõÿ¿1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çİíŒşÿÿÿÿ8ĞÁõÿ¿1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇòÒãûÿÿÿÿ8ÑÁõÿ¿1

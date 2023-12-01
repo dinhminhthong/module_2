@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8À¬Å½1
+c
+java:S2130"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(³„ù§úÿÿÿÿ8Ê¬Å½1
+c
+java:S2130"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(Ö±âêıÿÿÿÿ8Ë¬Å½1
+U	java:S106"9Replace this use of System.out or System.err by a logger.( §‡İ8Í¬Å½1
