@@ -4,11 +4,7 @@
 9
 	Bai5.java,6\7\674411fbc2fe13a9723a57b29c18dbd7dcaeef1f
 9
-	bai9.java,a\9\a9266a380b6163f5bd24a14d0f8e7576aad8f15b
-9
 	Bai3.java,5\e\5e21526d05b17d169034fd6c8f3878df0fe2b222
-9
-	Bai8.java,7\f\7f089e206217c2b6ff3acdc974c6c70a248a5562
 9
 	Bai6.java,8\e\8e4b22a9b0dff4cab24ae6088f9acce79a66d704
 @
@@ -30,5 +26,15 @@ Bai10.java,b\5\b5fe39e7269d5da05b1d05ba9300d160244bb840
 phan_2/Bai5.java,2\1\217eb88cc96e0e22b8b7b0748e0224278ed8492c
 @
 phan_2/Bai7.java,2\3\2383b431683d9f80b5ac3a5308e3125c5b035f89
+A
+phan_2/Shape.java,7\f\7f19ba00cbddb74764f2ad379869a95c63b7890b
+D
+phan_2/Triangle.java,c\0\c0618545a6be2d7a099ac858572431746134bb32
 @
-phan_2/Bai8.java,c\4\c457dfddcaf03f73ddff2da854c4e5b26729b214
+phan_3/Bai3.java,a\1\a1de08b579ae3ff8aeae6c1aa189493cd722e82e
+@
+phan_3/Bai4.java,5\6\56252fc0702b7d3104dd12531781b2bf52004bc0
+@
+phan_3/Bai8.java,1\b\1b39c63cc4bf5e576f3c072603246509d574d62d
+@
+phan_3/Bai7.java,4\e\4e12b5ce2b9b0cd43714fd886f9304d98e757c5e

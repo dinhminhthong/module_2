@@ -9,33 +9,7 @@ public class bai18 {
                sum+=arr[i];
             }
         }
-        return sum
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                ;
+        return sum;
     }
     public static void main(String[] args) {
         int []arr = {5,10,2,4,15};
